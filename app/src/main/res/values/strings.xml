@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application111</string>
+    <string name = "headText"> Привет, выбери количество вопросов ! </string>
+    <string name = "headTextEn"> Hi, choose the number of questions </string>
+    <string name = "infoText"></string>
+    <string name = "headButton"> Начать викторину </string>
+    <string name = "headButtonEn"> Start quiz </string>
+    <string name="trueButton"> Да </string>
+    <string name = "falseButton"> Нет </string>
+
+    <string name = "firstHalf"> Вы выбрали </string>
+    <string name = "secondHalf"> вопросов </string>
+
+    <string name = "firstHalfEn"> You choose </string>
+    <string name = "secondHalfEn"> questions </string>
+
+    <string name="finalText"> Вот и все !</string>
+    <string name = "finalTextEn"> The end !</string>
+</resources>
